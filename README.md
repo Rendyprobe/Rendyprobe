@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hello World! 🌍✨
 
-<!--
-**Rendyprobe/Rendyprobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Loop Coding GIF" />
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Hi, I'm <strong>Rendy Syahputra Riyadi</strong> 🚀</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>“Crafting logic, designing dreams — one line of code at a time.”</em>
+</p>
+
+---
+
+### 🧠 About Me
+
+```java
+public class Me {
+    String name = "Rendy Syahputra Riyadi";
+    String role = "Aspiring Developer & Creative Thinker";
+    String passion = "Building meaningful digital experiences";
+
+    void learn() {
+        System.out.println("Currently learning Java, Spring Boot, and Web Development");
+    }
+
+    void dream() {
+        System.out.println("Contribute to impactful open-source projects 🌱");
+    }
+}
