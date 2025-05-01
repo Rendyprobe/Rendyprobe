@@ -14,17 +14,23 @@
 
 ### 🧠 About Me
 
-```java
-public class Me {
-    String name = "Rendy Syahputra Riyadi";
-    String role = "Aspiring Developer & Creative Thinker";
-    String passion = "Building meaningful digital experiences";
 
-    void learn() {
-        System.out.println("Currently learning Java, Spring Boot, and Web Development");
-    }
-
-    void dream() {
-        System.out.println("Contribute to impactful open-source projects 🌱");
-    }
-}
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <p>
+        🚀 I'm a proud <strong>beginner developer</strong> exploring the world of code! <br>
+        🎯 Currently learning and practicing:
+        <ul>
+          <li>HTML & CSS for web basics</li>
+          <li>Java for backend & OOP</li>
+          <li>Python for scripting and fun</li>
+        </ul>
+        🌱 Always open to learning something new — one keystroke at a time!
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW4xczU4ZjR1dGhlcXJia3BiY2FjdWRlbXhrMHNpbjlzdG5ybG1zeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" width="150" alt="Coder GIF" />
+    </td>
+  </tr>
+</table>
